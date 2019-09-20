@@ -7,12 +7,21 @@ Runner - Automation tests can be executed through the Collection Runner. This wi
 Open New - Open a new tab, Postman Window or Runner Window by clicking this button.
 
 My Workspace - You can create a new workspace individually or as a team.
+
 Invite - Collaborate on a workspace by inviting team members.
+
 History - Past requests that you have sent will be displayed in History. This makes it easy to track actions that you have done.
+
 Collections - Organize your test suite by creating collections. Each collection may have subfolders and multiple requests.
+
 A request or folder can also be duplicated as well.
-Request tab - This displays the title of the request you are working on. By default, "Untitled Request" would be displayed for requests without titles.
-HTTP Request - Clicking this would display a dropdown list of different requests such as GET, POST, COPY, DELETE, etc. In testing, the most commonly used requests are GET and POST.
+
+Request tab - This displays the title of the request you are working on.
+By default, "Untitled Request" would be displayed for requests without titles.
+
+HTTP Request - Clicking this would display a dropdown list of different requests such as GET, POST, COPY, DELETE, etc.
+In testing, the most commonly used requests are GET and POST.
+
 Request URL - Also known as an endpoint, this is where you will identify the link to where the API will communicate with.
 Save - If there are changes to a request, clicking save is a must so that new changes will not be lost or overwritten.
 Params - This is where you will write parameters needed for a request such as key values.
