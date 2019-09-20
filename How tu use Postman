@@ -35,5 +35,9 @@ Headers - You can set headers such as content type JSON depending on the needs o
 
 Body - This is where one can customize details in a request commonly used in POST request.
 
-Pre-request Script - These are scripts that will be executed before the request. Usually, pre-request scripts for the setting environment are used to ensure that tests will be run in the correct environment.
-Tests - These are scripts executed during the request. It is important to have tests as it sets up checkpoints to verify if response status is ok, retrieved data is as expected and other tests.
+Pre-request Script - These are scripts that will be executed before the request.
+Usually, pre-request scripts for the setting environment are used to ensure that tests will be run in the correct environment.
+
+Tests - These are scripts executed during the request.
+It is important to have tests as it sets up checkpoints to verify if response status is ok, 
+retrieved data is as expected and other tests.
